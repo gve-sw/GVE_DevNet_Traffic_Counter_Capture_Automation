@@ -1,0 +1,13 @@
+- interfaces:
+  - g0/1
+  ip: 10.1.1.1
+  password: password
+  username: username
+- interfaces:
+  - g0/1
+  - g0/2
+  ip: 10.1.1.2
+  password: password
+  username: username
+
+* the interfaces can be abbreviated as in IOS commands
